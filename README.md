@@ -12,7 +12,7 @@ This repository contains an **in-depth analysis of customer churn** in a rewards
 - [Conclusion and Next Steps](#conclusion-and-next-steps)
 - [Business Presentation](#business-presentation)
 
-## Project Overview
+## Project Overview 
 Customer churn, or lapse, is a significant concern for any business with a subscription model or loyalty program. Understanding the factors that lead to customer churn and being able to predict which customers are most likely to churn is crucial for developing effective retention strategies. In this project, we explore these issues through data analysis and machine learning. The results provide not only a predictive model for customer churn but also valuable insights into the most important factors influencing churn.
 
 ## Data Description
