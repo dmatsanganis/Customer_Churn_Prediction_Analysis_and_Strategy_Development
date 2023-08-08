@@ -52,7 +52,8 @@ For a comprehensive understanding of the analysis and the business context, plea
 
 
 
-[![PowerPoint Presentation](https://img.shields.io/badge/PowerPoint-Presentation-brightgreen)](LINK_TO_YOUR_PPTX)
+![PowerPoint Presentation](https://img.shields.io/badge/PowerPoint-Presentation-brightgreen)
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
